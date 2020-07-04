@@ -1,0 +1,2 @@
+rootProject.name='PostsListActivity'
+include ':app'

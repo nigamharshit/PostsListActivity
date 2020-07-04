@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25062616425",
+    "firebase_url": "https://andy-writings.firebaseio.com",
+    "project_id": "andy-writings",
+    "storage_bucket": "andy-writings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25062616425:android:f819a24401d244a766a1f8",
+        "android_client_info": {
+          "package_name": "com.example.postslistactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25062616425-jchbu9ce6qkajiau8njv2t9d21kbjk3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.postslistactivity",
+            "certificate_hash": "40f024fa747635c1c9ec66f850216bc6f94bb656"
+          }
+        },
+        {
+          "client_id": "25062616425-3vudae9m971a2v0sqkdasov19vij71j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2l4S-v_lXa0uH8KEwyk8yNQaEeegSek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25062616425-3vudae9m971a2v0sqkdasov19vij71j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
